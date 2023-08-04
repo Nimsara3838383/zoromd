@@ -4,10 +4,10 @@ import { watchFile, unwatchFile, readFileSync } from 'fs'
 
 global.owner = 
  [
-  ['+48 888 880 215', '𝖑𝖚𝖆 𝖘𝖊𝖗 𝖔𝖋𝖈', true]
+  ['94755319464', '𝖑𝖚𝖆 𝖘𝖊𝖗 𝖔𝖋𝖈', true]
 ]
 // Put your number here
-// [number, he creator/owner?, he developer?]
+// [94755319464, he creator/owner?, he developer?]
 
 global.mods = [] // Want some help?
 global.prems = [] // Premium user has unlimited limit
